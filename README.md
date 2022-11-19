@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=170&section=header&text=WEEKYEON&fontSize=70&fontAlignY=55&stroke=000&strokeWidth=0.8)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=WEEKYEON&fontSize=70&fontAlignY=55&stroke=000&strokeWidth=0.8)
 
 <div align="center">
   <h3>👋 Hi there!</h3>
@@ -36,6 +36,9 @@
   <img src="http://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=Svelte&logoColor=white"/>
   
   <h3>😎 What am i doing right now?</h3>
+  <!-- BLOG-POST-LIST:START -->
+
+  <!-- BLOG-POST-LIST:END -->
   <a href="https://weekyeon.notion.site/TIL-31f0e4689fc043d7952a117cc42db3d6">
     <img src="http://img.shields.io/badge/-TechBlog-black?style=flat-square&logo=Notion&logoColor=white&link=https://weekyeon.notion.site/TIL-31f0e4689fc043d7952a117cc42db3d6"/>
   </a>
