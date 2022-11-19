@@ -2,8 +2,6 @@
 
 <div align="center">
   <h3>👋 Hi there!</h3>
-  <img src="http://img.shields.io/badge/-TechBlog-black?style=flat-square&logo=Notion&logoColor=white&link=https://weekyeon.notion.site/TIL-31f0e4689fc043d7952a117cc42db3d6"/>
-  <img src="http://img.shields.io/badge/-MyBlog-54B848?style=flat-square&logo=Notion&logoColor=white&link=https://weekyeon.notion.site/Under-the-sea-145a78433f364644a15329fa163dacde"/><br>
   개발이 지나치게 재밌는 개발자 김주연입니다.<br>
   프론트 개발과 백엔드 개발 모두 좋아 풀스택 개발자가 되려 합니다:grinning:<br>
   현재 재직 중인 직장에서 좋은 기회로 DevOps 업무를 익히고 있습니다.<br>
@@ -36,4 +34,12 @@
   <img src="http://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img src="http://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="http://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=Svelte&logoColor=white"/>
+  
+  <h3>😎 What am i doing right now?</h3>
+  <a href="https://weekyeon.notion.site/TIL-31f0e4689fc043d7952a117cc42db3d6">
+    <img src="http://img.shields.io/badge/-TechBlog-black?style=flat-square&logo=Notion&logoColor=white&link=https://weekyeon.notion.site/TIL-31f0e4689fc043d7952a117cc42db3d6"/>
+  </a>
+  <a href="https://weekyeon.notion.site/Under-the-sea-145a78433f364644a15329fa163dacde">
+     <img src="http://img.shields.io/badge/-MyBlog-54B848?style=flat-square&logo=Notion&logoColor=white&link=https://weekyeon.notion.site/Under-the-sea-145a78433f364644a15329fa163dacde"/>
+  </a>
 </div>
