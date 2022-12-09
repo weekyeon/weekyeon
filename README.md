@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### ✨ weekyeon, Web developer
+#### weekyeon, Web developer
 * I think, I'm a back-end developer.
 * But I can be anything. Because I don't know anything.
 
